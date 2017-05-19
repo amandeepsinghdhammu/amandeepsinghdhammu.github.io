@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Amandeep Singh"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Amandeep Singh"
+description              : "a bit of this and that"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,30 +77,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Amandeep Singh"
+  avatar           : "/assets/images/amandeepsinghdhammu.jpg"
+  bio              : "Just a guy"
+  location         : "Mohali, India"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Amandeepsinghdhammu"
   foursquare       :
-  github           :
+  github           : "amandeepsinghdhammu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "amandeepsinghdhammu"
   lastfm           :
-  linkedin         :
+  linkedin         : "amandeep-singh-552a4362"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "AS_Dhammu"
   vine             :
   weibo            :
   xing             :
